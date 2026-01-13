@@ -1,0 +1,1 @@
+# Rank-Math-API-Manager-Extended-plugin-on-WordPress
